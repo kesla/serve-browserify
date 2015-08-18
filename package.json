@@ -20,17 +20,15 @@
     "serve-browserify": "bin/cli.js"
   },
   "dependencies": {
-    "browserify": "^5.9.1",
-    "browserify-precompiled": "^5.9.1-precompiled2",
-    "compiled-files": "~0.1.1",
-    "ecstatic": "^0.5.4",
+    "browserify": "^11.0.1",
+    "compiled-files": "^0.1.1",
+    "ecstatic": "^0.8.0",
     "getport": "^0.1.0",
-    "minimist": "^0.2.0",
-    "node-env": "~0.1.8",
-    "process": "~0.5.1",
-    "resolve": "~0.4.0",
-    "send-data": "^3.3.2",
-    "watchify": "^1.0.2",
+    "minimist": "^1.1.3",
+    "node-env": "^0.1.8",
+    "resolve": "^1.1.6",
+    "send-data": "^7.0.0",
+    "watchify": "^3.3.1",
     "xtend": "^4.0.0"
   },
   "devDependencies": {
